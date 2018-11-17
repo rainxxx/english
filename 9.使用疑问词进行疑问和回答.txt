@@ -1,0 +1,16 @@
+when where who what how
+
+1.你什么时候去上海
+When are you going to Shanghai
+
+2.你昨天去哪了
+Where did you go yesterday?
+
+3.谁昨天去上海了
+Who went to Shanghai yesterday?
+
+4.你昨天买了什么
+What did you buy yesterday
+
+5.他昨天怎么去上海的
+how did he go to Shanghai yesterday

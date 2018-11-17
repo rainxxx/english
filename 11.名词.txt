@@ -1,0 +1,47 @@
+名词可以分为两种：可数名词，不可数名词。
+
+1.可数名词
+可数名词就是说可以直接用几个几个来去数的就叫可数名词，
+比如：apple bike 
+
+表示单个的时候
+如果首字母是元音字母那就需要用an来表示否则用a
+
+i have an apple
+这里 apple 是元音字母a开头所以 要用an表示一个
+
+i have a bike
+这里 bike的首字母b不是元音字母(a,e,i,o,u)所以用a表示
+
+
+表示复数的时候
+以 z x s ch sh结尾的时候需要加es
+以 o结尾的单词 如果表是带有生命的词(人，动物，植物)需要加es，其他情况加s
+最后两个字母是辅音字母+y的时候，去y加ies
+
+i have three apples
+我有三个苹果。
+
+i have three classes
+我有三个班级，以s结尾需要加es变为classes
+
+
+使用量词：
+
+i have three box of apples
+我有三箱苹果（使用量词的时候，名词需要变为复数）
+
+2.不可数名词
+不能直接用几个几个来去衡量的名词
+比如：coffee water love history
+
+不可数名词表达数量的时候必须要用量词。
+不可数名词永远不加s一直保持单词原型
+
+比如：
+一杯咖啡
+a cup of coffee
+
+一杯水
+a cup of water
+

@@ -1,0 +1,26 @@
+代词就是代替人或者物的词
+主格 作为主语的时候显示格式
+i
+you 
+he
+she
+they 
+it
+we 
+
+宾格 作为宾语的时候显示格式
+me
+you
+him
+her
+them
+it
+us
+
+
+
+
+
+
+
+
